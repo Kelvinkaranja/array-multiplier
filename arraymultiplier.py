@@ -38,4 +38,5 @@ def revmul(nums):
                 answer=int(total/each)
                 ans.append(answer)
     return ans
+revmul([1,5,8,3,7])
 
